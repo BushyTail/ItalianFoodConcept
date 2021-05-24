@@ -32,8 +32,8 @@
 }
 @font-face {
     font-family: 'Fredericka the Great';
-    src: url('fonts/FrederickathegreatRegular.woff2') format('woff2'),
-    url('fonts/FrederickathegreatRegular.woff') format('woff');
+    src: url('fonts/FrederickatheGreatRegular.woff2') format('woff2'),
+    url('fonts/FrederickatheGreatRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
